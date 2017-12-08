@@ -22,8 +22,8 @@ CREATE TABLE Players(
 	PRIMARY KEY(player_Num)
 );
 
-Players -> player_number(player_Num), player_Name, height_feet, height_inches, weight
-                  ^                       ^
+Players -> player_number(player_Num), player_Name, height_feet, height_inches, weight  
+                  ^                       ^  
 Player_Stat ->    |                       | , position, points, assist, steals
 
 create: add Player -> links to both table in the database to get the fields to fill in then fills in the information to both tables that is then (line 396)
