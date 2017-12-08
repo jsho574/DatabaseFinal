@@ -1,5 +1,5 @@
 # DatabaseFinal
-##Database final project, Joshua McEwen, Ethan M
+Database final project, Joshua McEwen, Ethan M finalProject.zip
 
 Our app is for a manager to manage a basketball team. The two tables shown are for the stats  across a season and the measurements the players have. It can add a player, delete or edit as was required.
 
